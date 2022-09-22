@@ -78,7 +78,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -117,6 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663239515081</updated>
       <workItem from="1663239516422" duration="276000" />
+      <workItem from="1663851970979" duration="164000" />
     </task>
     <servers />
   </component>
@@ -133,5 +137,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
