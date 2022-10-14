@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/17.Methods/17.Methods.iml" filepath="$PROJECT_DIR$/17.Methods/17.Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.Methods2/18.Methods2.iml" filepath="$PROJECT_DIR$/18.Methods2/18.Methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19.Classes/19.Classes.iml" filepath="$PROJECT_DIR$/19.Classes/19.Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/2. Gün 2. Ödev.iml" filepath="$PROJECT_DIR$/.idea/2. Gün 2. Ödev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.ReCapDemoClasses/20.ReCapDemoClasses.iml" filepath="$PROJECT_DIR$/20.ReCapDemoClasses/20.ReCapDemoClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21.ClassesWithAttributes/21.ClassesWithAttributes.iml" filepath="$PROJECT_DIR$/21.ClassesWithAttributes/21.ClassesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22.MethodOverloading/22.MethodOverloading.iml" filepath="$PROJECT_DIR$/22.MethodOverloading/22.MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.Inheritance/23.Inheritance.iml" filepath="$PROJECT_DIR$/23.Inheritance/23.Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24.InheritanceDemo/24.InheritanceDemo.iml" filepath="$PROJECT_DIR$/24.InheritanceDemo/24.InheritanceDemo.iml" />
+    </modules>
+  </component>
+</project>
